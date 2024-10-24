@@ -1,3 +1,6 @@
+# Uniswap Points Hook
+Using Hooks to distribute token rewards.
+
 ## Uniswap v4 Sandbox
 
 **Points Hook**
